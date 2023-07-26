@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Morador Online</title>
+    <link>https://seu-site.com/seu-appcast.xml</link>
+    <description>Morador Online</description>
+    <language>pt</language>
+    <item>
+      <title>Versão 2.2.1</title>
+      <description><![CDATA[Esta versão inclui várias melhorias de desempenho e correções de bugs.]]></description>
+      <pubDate>Thu, 26 Jul 2023 15:00:00 +0000</pubDate>
+      <enclosure url="https://seu-site.com/seu-app-v1.0.0.apk" sparkle:version="1.0.0" platform="android" />
+    </item>
+  </channel>
+</rss>

@@ -6,16 +6,16 @@
     <description>Morador Online</description>
     <language>pt</language>
     <item>
-      <title>Versão 2.2.1 para Android</title>
+      <title>Versão 2.2.0 para Android</title>
       <description><![CDATA[Esta versão inclui várias melhorias de desempenho e correções de bugs.]]></description>
       <pubDate>Thu, 26 Jul 2023 15:00:00 +0000</pubDate>
-      <enclosure url="https://play.google.com/store/apps/details?id=br.app.mo.novomo" sparkle:version="2.2.1" platform="android" />
+      <enclosure url="https://play.google.com/store/apps/details?id=br.app.mo.novomo" sparkle:version="2.2.0" platform="android" />
     </item>
     <item>
-      <title>Versão 2.2.1 para iOS</title>
+      <title>Versão 2.2.0 para iOS</title>
       <description><![CDATA[Esta versão inclui várias melhorias de desempenho e correções de bugs.]]></description>
       <pubDate>Thu, 26 Jul 2023 15:00:00 +0000</pubDate>
-      <enclosure url="https://apps.apple.com/br/app/mo-2-0/id1598971439" sparkle:version="2.2.1" platform="ios" />
+      <enclosure url="https://apps.apple.com/br/app/mo-2-0/id1598971439" sparkle:version="2.2.0" platform="ios" />
     </item>
   </channel>
 </rss>
